@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='text2pix',
-    version='0.0.1',
+    version='2025.05.100903',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='A library to generate images from text descriptions.',

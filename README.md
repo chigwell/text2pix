@@ -1,6 +1,7 @@
 [![PyPI version](https://badge.fury.io/py/text2pix.svg)](https://badge.fury.io/py/text2pix)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://static.pepy.tech/badge/text2pix)](https://pepy.tech/project/text2pix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 
 # Text2Pix
 
@@ -32,7 +33,7 @@ with open('lake.png', 'wb') as f:
 
 The result will be an image file named `lake.png` that visually represents the text description.
 
-![lake.png](https://wsrv.nl/?cx=0&cy=0&cw=1000&ch=720&fit=cover&a=focal&&url=https://image.pollinations.ai/prompt/A%20serene%20lake%20surrounded%20by%20mountains%20at%20sunset.)
+![lake.png](https://wsrv.nl/?cx=0&cy=0&cw=1000&ch=960&fit=cover&a=focal&&url=https://image.pollinations.ai/prompt/A%20serene%20lake%20surrounded%20by%20mountains%20at%20sunset.)
 
 This package is ideal for creative projects, prototyping, and anywhere you need quick visual representations from text.
 
